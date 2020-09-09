@@ -1,0 +1,1 @@
+catIm = Image.open("../automate_online-materials/zophie.png")
